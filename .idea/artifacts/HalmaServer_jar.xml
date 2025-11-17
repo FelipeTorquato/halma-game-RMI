@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HalmaServer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/HalmaServer_jar</output-path>
+    <root id="archive" name="Halma-game.jar">
+      <element id="module-output" name="Halma-game-rmi" />
+    </root>
+  </artifact>
+</component>
